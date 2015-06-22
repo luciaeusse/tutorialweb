@@ -1,0 +1,13 @@
+#contenedor{
+	height: 400px;
+	width: 400px;
+	background: #efefef;
+	margin: 100px auto;
+}
+
+.arrastrar{
+	height: 50px;
+	width: 50px;
+	background: #e1e1e1;
+	display: inline-block;
+}
