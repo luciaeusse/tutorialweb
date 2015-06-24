@@ -11,3 +11,16 @@
 	background: #e1e1e1;
 	display: inline-block;
 }
+
+.soltar{
+	height: 200px;
+	width: 200px;
+	background: #d1d1d1;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.ui-draggable-dragging{
+	background-color: #eeca66;
+}
