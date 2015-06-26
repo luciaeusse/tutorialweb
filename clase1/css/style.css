@@ -10,6 +10,8 @@
 	width: 50px;
 	background: #e1e1e1;
 	display: inline-block;
+	text-align: center;
+	line-height: 50px;
 }
 
 .soltar{
@@ -19,6 +21,8 @@
 	margin-top: 50px;
 	margin-right: auto;
 	margin-left: auto;
+	text-align: center;
+	line-height: 200px;
 }
 
 .ui-draggable-dragging{
